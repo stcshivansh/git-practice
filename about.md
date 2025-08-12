@@ -1,2 +1,2 @@
 ## About Section
-This section gives information about the project.
+This section gives information about the project of git.
